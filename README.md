@@ -18,3 +18,5 @@ Nesta disciplina, eu irei aprender mais sobre:
 Links úteis:
 * [Campus Virtual](https://campusvirtual.ufla.br)
 * [UFLA](https://ufla.br)
+
+![Foto da UFLA](http://admin.folhadirigida.com.br/filemanager/files/noticias/Fotos/ufla-mg-destaque.jpg)
